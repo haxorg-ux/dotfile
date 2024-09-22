@@ -2,4 +2,4 @@
 
 bspwm polybar
 
-![Deja una estrella. Comparte.](https://github.com/m4teoarg/dotfile/blob/main/images/dotfiles.png)
+![Deja una estrella. Comparte.](https://github.com/haxorg-ux/dotfile/blob/master/images/dotfiles.png)
